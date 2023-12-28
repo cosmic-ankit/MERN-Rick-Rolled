@@ -1,0 +1,17 @@
+/* Add your specific styles for the Header component */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  nav {
+    margin-top: 1rem;
+  }
+  
+  nav a {
+    margin-right: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  

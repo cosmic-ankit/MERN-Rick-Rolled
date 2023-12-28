@@ -1,0 +1,15 @@
+/* Add your specific styles for the About component */
+.about-container {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .about-title {
+    color: #333;
+  }
+  
+  .about-content {
+    color: #555;
+  }
+  
